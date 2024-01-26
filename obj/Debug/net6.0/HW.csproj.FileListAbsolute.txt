@@ -1,0 +1,15 @@
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/HW
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/HW.deps.json
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/HW.runtimeconfig.json
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/HW.dll
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/ref/HW.dll
+/home/user/Документы/UUU/HW/bin/Debug/net6.0/HW.pdb
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.csproj.AssemblyReference.cache
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.AssemblyInfoInputs.cache
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.AssemblyInfo.cs
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.csproj.CoreCompileInputs.cache
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.dll
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/ref/HW.dll
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.pdb
+/home/user/Документы/UUU/HW/obj/Debug/net6.0/HW.genruntimeconfig.cache
